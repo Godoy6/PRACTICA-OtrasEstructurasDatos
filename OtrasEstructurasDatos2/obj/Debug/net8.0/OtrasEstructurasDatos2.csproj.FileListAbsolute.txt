@@ -1,0 +1,15 @@
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos2\bin\Debug\net8.0\OtrasEstructurasDatos2.exe
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos2\bin\Debug\net8.0\OtrasEstructurasDatos2.deps.json
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos2\bin\Debug\net8.0\OtrasEstructurasDatos2.runtimeconfig.json
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos2\bin\Debug\net8.0\OtrasEstructurasDatos2.dll
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos2\bin\Debug\net8.0\OtrasEstructurasDatos2.pdb
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos2\obj\Debug\net8.0\OtrasEstructurasDatos2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos2\obj\Debug\net8.0\OtrasEstructurasDatos2.AssemblyInfoInputs.cache
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos2\obj\Debug\net8.0\OtrasEstructurasDatos2.AssemblyInfo.cs
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos2\obj\Debug\net8.0\OtrasEstructurasDatos2.csproj.CoreCompileInputs.cache
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos2\obj\Debug\net8.0\OtrasEstructurasDatos2.sourcelink.json
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos2\obj\Debug\net8.0\OtrasEstructurasDatos2.dll
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos2\obj\Debug\net8.0\refint\OtrasEstructurasDatos2.dll
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos2\obj\Debug\net8.0\OtrasEstructurasDatos2.pdb
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos2\obj\Debug\net8.0\OtrasEstructurasDatos2.genruntimeconfig.cache
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos2\obj\Debug\net8.0\ref\OtrasEstructurasDatos2.dll

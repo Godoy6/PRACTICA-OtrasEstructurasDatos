@@ -14,31 +14,28 @@ namespace OtrasEstructurasDatos
         {
             Stack<string> PilaAcciones = new Stack<string>();
 
-            while (true)
+            Console.WriteLine("Escriba el numero de la accion correspondiente de lo que quiere hacer:");
+            Console.WriteLine("1 = Agregar acción");
+            Console.WriteLine("2 = Deshacer última acción");
+
+            int RespuestaUsuario = int.Parse(Console.ReadLine());
+
+            switch (RespuestaUsuario)
             {
-                Console.WriteLine("Escriba el numero de la accion correspondiente de lo que quiere hacer:");
-                Console.WriteLine("1 = Agregar acción");
-                Console.WriteLine("2 = Deshacer última acción");
+                case 1:
+                    AgregarAccion(PilaAcciones);
+                    break;
 
-                int RespuestaUsuario = int.Parse(Console.ReadLine());
+                case 2:
+                    DeshacerAccion(PilaAcciones);
+                    break;
 
-                switch (RespuestaUsuario)
-                {
-                    case 1:
-                        AgregarAccion(PilaAcciones);
-                        break;
-
-                    case 2:
-                        DeshacerAccion(PilaAcciones);
-                        break;
-
-                    default:
-                        Console.WriteLine("<<<<<< OPCION NO VALIDA, APRENDE A LEER >>>>>>");
-                        break;
-                }
-
-                MostrarPila(PilaAcciones);
+                default:
+                    Console.WriteLine("<<<<<< OPCION NO VALIDA, APRENDE A LEER >>>>>>");
+                    break;
             }
+
+            MostrarPila(PilaAcciones);
         }
 
         static void AgregarAccion(Stack<string> PilaAgregarAccion)
@@ -77,7 +74,7 @@ namespace OtrasEstructurasDatos
             if (PilaDeshacerAccion.Count > 0)
             {
                 string ultimaAccion = PilaDeshacerAccion.Pop();
-                Console.WriteLine($"Última acción deshecha: {ultimaAccion}");
+                Console.WriteLine("Última acción deshecha: " + ultimaAccion);
                 Console.WriteLine("");
             }
             else

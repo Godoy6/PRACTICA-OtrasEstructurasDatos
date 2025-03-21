@@ -13,3 +13,18 @@ C:\Users\sergi\Desktop\COSAS GRADOS\GRADO SUPERIOR ANIMACION 3D\COSAS GITHUB\PRA
 C:\Users\sergi\Desktop\COSAS GRADOS\GRADO SUPERIOR ANIMACION 3D\COSAS GITHUB\PRACTICA OtrasEstructurasDatos\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos\obj\Debug\net6.0\OtrasEstructurasDatos.pdb
 C:\Users\sergi\Desktop\COSAS GRADOS\GRADO SUPERIOR ANIMACION 3D\COSAS GITHUB\PRACTICA OtrasEstructurasDatos\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos\obj\Debug\net6.0\OtrasEstructurasDatos.genruntimeconfig.cache
 C:\Users\sergi\Desktop\COSAS GRADOS\GRADO SUPERIOR ANIMACION 3D\COSAS GITHUB\PRACTICA OtrasEstructurasDatos\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos\obj\Debug\net6.0\ref\OtrasEstructurasDatos.dll
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos\obj\Debug\net6.0\OtrasEstructurasDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos\obj\Debug\net6.0\OtrasEstructurasDatos.AssemblyInfoInputs.cache
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos\obj\Debug\net6.0\OtrasEstructurasDatos.AssemblyInfo.cs
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos\obj\Debug\net6.0\OtrasEstructurasDatos.csproj.CoreCompileInputs.cache
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos\obj\Debug\net6.0\OtrasEstructurasDatos.sourcelink.json
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos\bin\Debug\net6.0\OtrasEstructurasDatos.exe
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos\bin\Debug\net6.0\OtrasEstructurasDatos.deps.json
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos\bin\Debug\net6.0\OtrasEstructurasDatos.runtimeconfig.json
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos\bin\Debug\net6.0\OtrasEstructurasDatos.dll
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos\bin\Debug\net6.0\OtrasEstructurasDatos.pdb
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos\obj\Debug\net6.0\OtrasEstructurasDatos.dll
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos\obj\Debug\net6.0\refint\OtrasEstructurasDatos.dll
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos\obj\Debug\net6.0\OtrasEstructurasDatos.pdb
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos\obj\Debug\net6.0\OtrasEstructurasDatos.genruntimeconfig.cache
+D:\Sergio Godoy Romero\GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos\obj\Debug\net6.0\ref\OtrasEstructurasDatos.dll
