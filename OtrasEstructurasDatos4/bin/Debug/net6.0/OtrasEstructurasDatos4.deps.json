@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OtrasEstructurasDatos4/1.0.0": {
+        "runtime": {
+          "OtrasEstructurasDatos4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OtrasEstructurasDatos4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

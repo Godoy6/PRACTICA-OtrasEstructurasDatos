@@ -1,0 +1,15 @@
+C:\Users\sergi\Desktop\COSAS GRADOS\GRADO SUPERIOR ANIMACION 3D\COSAS GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos4\bin\Debug\net6.0\OtrasEstructurasDatos4.exe
+C:\Users\sergi\Desktop\COSAS GRADOS\GRADO SUPERIOR ANIMACION 3D\COSAS GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos4\bin\Debug\net6.0\OtrasEstructurasDatos4.deps.json
+C:\Users\sergi\Desktop\COSAS GRADOS\GRADO SUPERIOR ANIMACION 3D\COSAS GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos4\bin\Debug\net6.0\OtrasEstructurasDatos4.runtimeconfig.json
+C:\Users\sergi\Desktop\COSAS GRADOS\GRADO SUPERIOR ANIMACION 3D\COSAS GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos4\bin\Debug\net6.0\OtrasEstructurasDatos4.dll
+C:\Users\sergi\Desktop\COSAS GRADOS\GRADO SUPERIOR ANIMACION 3D\COSAS GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos4\bin\Debug\net6.0\OtrasEstructurasDatos4.pdb
+C:\Users\sergi\Desktop\COSAS GRADOS\GRADO SUPERIOR ANIMACION 3D\COSAS GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos4\obj\Debug\net6.0\OtrasEstructurasDatos4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergi\Desktop\COSAS GRADOS\GRADO SUPERIOR ANIMACION 3D\COSAS GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos4\obj\Debug\net6.0\OtrasEstructurasDatos4.AssemblyInfoInputs.cache
+C:\Users\sergi\Desktop\COSAS GRADOS\GRADO SUPERIOR ANIMACION 3D\COSAS GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos4\obj\Debug\net6.0\OtrasEstructurasDatos4.AssemblyInfo.cs
+C:\Users\sergi\Desktop\COSAS GRADOS\GRADO SUPERIOR ANIMACION 3D\COSAS GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos4\obj\Debug\net6.0\OtrasEstructurasDatos4.csproj.CoreCompileInputs.cache
+C:\Users\sergi\Desktop\COSAS GRADOS\GRADO SUPERIOR ANIMACION 3D\COSAS GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos4\obj\Debug\net6.0\OtrasEstructurasDatos4.sourcelink.json
+C:\Users\sergi\Desktop\COSAS GRADOS\GRADO SUPERIOR ANIMACION 3D\COSAS GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos4\obj\Debug\net6.0\OtrasEstructurasDatos4.dll
+C:\Users\sergi\Desktop\COSAS GRADOS\GRADO SUPERIOR ANIMACION 3D\COSAS GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos4\obj\Debug\net6.0\refint\OtrasEstructurasDatos4.dll
+C:\Users\sergi\Desktop\COSAS GRADOS\GRADO SUPERIOR ANIMACION 3D\COSAS GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos4\obj\Debug\net6.0\OtrasEstructurasDatos4.pdb
+C:\Users\sergi\Desktop\COSAS GRADOS\GRADO SUPERIOR ANIMACION 3D\COSAS GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos4\obj\Debug\net6.0\OtrasEstructurasDatos4.genruntimeconfig.cache
+C:\Users\sergi\Desktop\COSAS GRADOS\GRADO SUPERIOR ANIMACION 3D\COSAS GITHUB\PRACTICA-OtrasEstructurasDatos\OtrasEstructurasDatos4\obj\Debug\net6.0\ref\OtrasEstructurasDatos4.dll
