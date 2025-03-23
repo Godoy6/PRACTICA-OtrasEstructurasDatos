@@ -5,7 +5,6 @@ Implementa un menú en el que se pueda añadir una tarea al NPC (nombre de la ta
 cumplir una tarea de su lista (de forma aleatoria). 
 Muestra el estado de la lista tras cada acción.
 */
-
 namespace OtrasEstructurasDatos2
 {
     internal class Program
@@ -115,10 +114,10 @@ namespace OtrasEstructurasDatos2
                 Console.WriteLine(i + " = " + tareas[i]); // Aquí i es el índice de la tarea, y tareas[i] es la tarea en esa posición de la lista.
             }
 
-            Console.WriteLine("Ingresa la posicion de la primera tarea a intercambiar:");
+            Console.WriteLine("Escribe la posicion de la primera tarea a intercambiar:");
             int posicionTarea1 = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Ingresa la posicion de la segunda tarea a intercambiar:");
+            Console.WriteLine("Escribe la posicion de la segunda tarea a intercambiar:");
             int posicionTarea2 = int.Parse(Console.ReadLine());
 
             if (posicionTarea1 >= 0 && posicionTarea1 < tareas.Count && posicionTarea2 >= 0 && posicionTarea2 < tareas.Count)
@@ -144,7 +143,7 @@ namespace OtrasEstructurasDatos2
             {
                 int tareaAleatoria = random.Next(tareas.Count);
                 Console.WriteLine("¡Tarea cumplida! La tarea cumplida HA SIDO: " + tareas[tareaAleatoria]);
-                tareas.RemoveAt(tareaAleatoria); // Eliminar la tarea cumplida
+                tareas.RemoveAt(tareaAleatoria); 
             }
             else
             {

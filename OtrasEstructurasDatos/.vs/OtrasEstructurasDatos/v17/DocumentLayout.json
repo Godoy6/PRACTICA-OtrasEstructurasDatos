@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Sergio Godoy Romero\\GITHUB\\PRACTICA-OtrasEstructurasDatos\\OtrasEstructurasDatos\\",
+  "WorkspaceRootPath": "C:\\Users\\sergi\\Desktop\\COSAS GRADOS\\GRADO SUPERIOR ANIMACION 3D\\COSAS GITHUB\\PRACTICA-OtrasEstructurasDatos\\OtrasEstructurasDatos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{645F40F3-9DF4-43E4-B0F4-DD1CD2D5F835}|OtrasEstructurasDatos.csproj|d:\\sergio godoy romero\\github\\practica-otrasestructurasdatos\\otrasestructurasdatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{645F40F3-9DF4-43E4-B0F4-DD1CD2D5F835}|OtrasEstructurasDatos.csproj|c:\\users\\sergi\\desktop\\cosas grados\\grado superior animacion 3d\\cosas github\\practica-otrasestructurasdatos\\otrasestructurasdatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{645F40F3-9DF4-43E4-B0F4-DD1CD2D5F835}|OtrasEstructurasDatos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Sergio Godoy Romero\\GITHUB\\PRACTICA-OtrasEstructurasDatos\\OtrasEstructurasDatos\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\Desktop\\COSAS GRADOS\\GRADO SUPERIOR ANIMACION 3D\\COSAS GITHUB\\PRACTICA-OtrasEstructurasDatos\\OtrasEstructurasDatos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Sergio Godoy Romero\\GITHUB\\PRACTICA-OtrasEstructurasDatos\\OtrasEstructurasDatos\\Program.cs",
+              "ToolTip": "C:\\Users\\sergi\\Desktop\\COSAS GRADOS\\GRADO SUPERIOR ANIMACION 3D\\COSAS GITHUB\\PRACTICA-OtrasEstructurasDatos\\OtrasEstructurasDatos\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T15:27:03.255Z",
               "EditorCaption": ""

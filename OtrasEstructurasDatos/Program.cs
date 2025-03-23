@@ -5,7 +5,6 @@ Las acciones se pueden deshacer (eliminar de la pila) en el orden correspondient
 Implementa un menú en el que el usuario pueda agregar acciones a la pila o deshacer estas acciones. 
 Muestra el estado de la pila después de cada acción.
 */
-
 namespace OtrasEstructurasDatos
 {
     internal class Program
@@ -14,28 +13,35 @@ namespace OtrasEstructurasDatos
         {
             Stack<string> PilaAcciones = new Stack<string>();
 
-            Console.WriteLine("Escriba el numero de la accion correspondiente de lo que quiere hacer:");
-            Console.WriteLine("1 = Agregar acción");
-            Console.WriteLine("2 = Deshacer última acción");
-
-            int RespuestaUsuario = int.Parse(Console.ReadLine());
-
-            switch (RespuestaUsuario)
+            while (true)
             {
-                case 1:
-                    AgregarAccion(PilaAcciones);
-                    break;
+                Console.WriteLine("Escriba el numero de la accion correspondiente de lo que quiere hacer:");
+                Console.WriteLine("1 = Agregar acción");
+                Console.WriteLine("2 = Deshacer última acción");
+                Console.WriteLine("3 = Salir");
 
-                case 2:
-                    DeshacerAccion(PilaAcciones);
-                    break;
+                int RespuestaUsuario = int.Parse(Console.ReadLine()); 
 
-                default:
-                    Console.WriteLine("<<<<<< OPCION NO VALIDA, APRENDE A LEER >>>>>>");
-                    break;
+                switch (RespuestaUsuario)
+                {
+                    case 1:
+                        AgregarAccion(PilaAcciones);
+                        break;
+
+                    case 2:
+                        DeshacerAccion(PilaAcciones);
+                        break;
+
+                    case 3:
+                        Console.WriteLine("¡Hasta luego maquina!");
+                        return;
+
+                    default:
+                        Console.WriteLine("<<<<<< OPCION NO VALIDA, APRENDE A LEER >>>>>>");
+                        break;
+                }
+                MostrarPila(PilaAcciones);
             }
-
-            MostrarPila(PilaAcciones);
         }
 
         static void AgregarAccion(Stack<string> PilaAgregarAccion)
